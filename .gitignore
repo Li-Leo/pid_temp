@@ -1,0 +1,16 @@
+*.browse
+*.pbd
+*.linf
+
+*.pbi
+*.pbd
+*.pbw
+*.pbi
+*.xcl
+*.o
+
+*.obj
+*.r43
+
+si/
+si_prj/
